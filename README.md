@@ -1,0 +1,1 @@
+GPT-4 with Vision assists RAG pattern
